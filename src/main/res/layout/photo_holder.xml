@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="136dp"
+    android:layout_height="136dp">
+
+
+    <ImageView
+        android:layout_margin="3dp"
+        android:id="@+id/image_view_for_grid_photo"
+        android:layout_width="133dp"
+        android:layout_height="133dp" />
+</RelativeLayout>
